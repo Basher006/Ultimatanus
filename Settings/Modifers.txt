@@ -1,0 +1,36 @@
+Lethal Rare Monsters - 2 модификатора мобам
+Siphoning Monsters - мобы сифонят ману и ес
+Precise Monsters - нельзя уклониться
+Unstoppable Monsters - мобов нельзя замедлить или оглушить
+Deadly Monsters - 100% крит у мобов
+Escalating Monster Speed - скорость мобам
+Hindering Flasks - банки замедляют
+Lightning Damage from Mana Costs - получаем урон за мана кост
+Buffs Expire Faster - быстрее спадают бафы
+Treacherous Auras - ауры работают на мобов
+Ailment and Curse Reflection - рефлект курс и аилментов
+Occasional Impotence - отключает урон на 2 секунды
+Raging Dead - онгнеметы
+Blistering Cold - ледяные шары
+Stormcaller Runes - электро круги
+Razor Dance - пилы
+Choking Miasma - облако яда
+Blood Altar - дот алтарь в центре
+Prismatic Monsters - элементальный экстра урон у монстров
+Profane Monsters - хаос экстра урон у монстров
+Resistant Monsters - +50 резов мобам
+Dexterous Monsters - сапрес у мобов и уклонение
+Shielding Monsters - шанс блока у мобов
+Totem of Costly Might - тотем усиляет мобов физически
+Totem of Costly Potency - тотем усиляет мобов элементально
+Siphoned Charges - мобы воруют чарджы
+Lessened Reach - меньше АОЕ
+Less Cooldown recovery - кд в 5 раз дольше
+Overwhelming Monsters - монстры игнорят броню
+Unlucky Criticals - криты анлаки и наносят меньше урона
+Escalating Damage Taken - постепенно увеличивает получаемый урон до 50%
+Reduced Recovery - уменьшение востановления всего
+Drought - банки не получают заряды
+Limited Arena - маленькая арена
+Ruin - руин ебаный
+Stalking Ruin - руин ебаный 2
